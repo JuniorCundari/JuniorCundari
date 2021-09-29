@@ -1,7 +1,7 @@
 ### Hello World, I'm Junior Cundari 👋
 
-- 💡 I’m currently learning Python, JavaScript, HTML and CSS
-- 🏠 I live in Brazil
+- 💡 I’m currently learning Python, JavaScript, HTML and CSS.
+- 🏠 I live in Brazil.
 
 ##
 
