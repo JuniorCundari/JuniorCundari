@@ -14,10 +14,7 @@
 <div align="center">
   <a href="https://github.com/JuniorCundari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorCundari&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCundari&layout=compact&langs_count=7&theme=discord_old_blurple"/>
-</div>
-<div style="display: flex" flex-direction="row"><br>
-  <a align="center" font-size="40" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCundari&langs_count=8&theme=discord_old_blurple"/>
 </div>
   
   ##
