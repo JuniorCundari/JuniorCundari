@@ -3,8 +3,6 @@
 - 💡 I’m currently learning Python, JavaScript, HTML and CSS.
 - 🏠 I live in Brazil.
 
-##
-
 <div>
   <a href="https://www.instagram.com/juniiorcundari/" target="_blank"><img align="center" height="45" width="45" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="blank"/></a>
   <a href = "mailto:jrcundari@yahoo.com.br"><img align="center" height="45" width="45" src="https://img.icons8.com/color/48/000000/yahoo-mail-app.png" target="_blank"></a>
@@ -22,11 +20,11 @@
   <a align="center" font-size="40" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></a>
 </div>
   
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="junior-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="junior-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="junior-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="junior-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-  ##
