@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/JuniorCundari">
-  <img height="180em" src=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorCundari&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCundari&langs_count=8&theme=discord_old_blurple"/>
 </div>
   
