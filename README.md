@@ -6,17 +6,17 @@
 <section>
   <div>
     <a href="https://www.instagram.com/juniiorcundari/" target="_blank">
-      <img align="center" height="45" width="45" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+    <img align="center" height="45" width="45" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
     </a>
     <a href = "mailto:jrcundari@yahoo.com.br" target="_blank">
-      <img align="center" height="45" width="45" src="https://img.icons8.com/color/48/000000/yahoo-mail-app.png">
+    <img align="center" height="45" width="45" src="https://img.icons8.com/color/48/000000/yahoo-mail-app.png">
     </a>
     <a href="https://www.linkedin.com/in/jos%C3%A9-roberto-cundari-junior-a42961129/" target="_blank">
-      <img align="center" height="40" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img align="center" height="40" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>
   </div>
 
-  ##
+##
 
   <div align="center">
     <a href="https://github.com/JuniorCundari">
@@ -33,3 +33,4 @@
     <img align="center" alt="junior-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
 </section>
+
