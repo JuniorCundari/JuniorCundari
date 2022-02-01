@@ -11,7 +11,7 @@
     <a href = "mailto:jrcundari@yahoo.com.br" target="_blank">
     <img align="center" height="45" width="45" src="https://img.icons8.com/color/48/000000/yahoo-mail-app.png">
     </a>
-    <a href="https://www.linkedin.com/in/jos%C3%A9-roberto-cundari-junior-a42961129/" target="_blank">
+    <a href="https://www.linkedin.com/in/juniorcundari/" target="_blank">
     <img align="center" height="40" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>
   </div>
