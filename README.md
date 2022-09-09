@@ -1,6 +1,7 @@
 # Hello World, I'm Junior Cundari 👋
 
 - 💻 I'm passionate about technologies.
+- 👥 My name's José Roberto but my nickname's Junior.
 - 💡 I’m currently learning ReactJS, NodeJS, JavaScript, HTML and CSS.
 - 🏠 I live in Brazil.
 
