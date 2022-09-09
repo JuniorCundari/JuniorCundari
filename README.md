@@ -7,13 +7,13 @@
 <section>
   <div align="center">
     <a href="https://www.instagram.com/juniiorcundari/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-juniiorcundari-blue?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img align="center" height="32" src="https://img.shields.io/badge/juniiorcundari-gray?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>
     <a href = "mailto:jrcundari@yahoo.com.br" target="_blank" >
-    <img align="center" src="https://img.shields.io/badge/Yahoo!-jrcundari@yahoo.com.br-blue?style=for-the-badge&logo=Yahoo">
+    <img align="center" height="32" src="https://img.shields.io/badge/jrcundari@yahoo.com.br-gray?style=for-the-badge&logo=Yahoo">
     </a>
     <a href="https://www.linkedin.com/in/juniorcundari/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Linkedin-Junior%20Cundari-blue?style=for-the-badge&logo=Linkedin" />
+    <img align="center" height="32" src="https://img.shields.io/badge/Junior%20Cundari-gray?style=for-the-badge&logo=Linkedin" />
     </a>
   </div>
   <hr>
