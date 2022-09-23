@@ -28,10 +28,10 @@
     <img height="45" alt="junior-Reactjs" src="https://img.shields.io/badge/React.js-191e26?style=for-the-badge&logo=React" />
     <img height="45" alt="junior-Nodejs" src="https://img.shields.io/badge/Node.js-191e26?style=for-the-badge&logo=Node.js" />
     <img height="45" alt="junior-JavaScript" src="https://img.shields.io/badge/JavaScript-191e26?style=for-the-badge&logo=JavaScript" />
+    <img height="45" alt="junior-Typescript" src="https://img.shields.io/badge/Typescript-191e26?style=for-the-badge&logo=Typescript" />
     <img height="45" alt="junior-HTML5" src="https://img.shields.io/badge/HTML5-191e26?style=for-the-badge&logo=HTML5" />
     <img height="45" alt="junior-HTML5" src="https://img.shields.io/badge/CSS3-191e26?style=for-the-badge&logo=CSS3&logoColor=1572B6" />
     <img height="45" alt="junior-Linux" src="https://img.shields.io/badge/Linux-191e26?style=for-the-badge&logo=Linux&logoColor=white" />
     <img height="45" alt="junior-Windows" src="https://img.shields.io/badge/Windows-191e26?style=for-the-badge&logo=Windows" />
   </div>
 </section>
-
