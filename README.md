@@ -4,7 +4,7 @@
 - 👥 My name's José Roberto but my nickname's Junior.
 - 💡 I’m currently learning ReactJS, NodeJS, JavaScript, HTML and CSS.
 - 🏠 I live in Brazil.
-- https://camo.githubusercontent.com/13b493d3476a0e1883481d4dfcd1a5b8c91cd27a84416836a77dc54bcd4a9fbe/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a756c6975736361657a6172666626636f6c6f723d79656c6c6f77
+
 
 <section>
   <div align="center">
