@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/juniorcundari/)
 [![Personal Badge](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logoColor=0E76A8)](https://juniorcundari.vercel.app/)
-[![Yahoo Badge](https://img.shields.io/badge/-jrcundari@yahoo.com.br-000?style=for-the-badge&logo=Yahoo&logoColor=430297&link=mailto:rcundari@yahoo.com.br)](mailto:rcundari@yahoo.com.br)
+[![Yahoo Badge](https://img.shields.io/badge/-jrcundari@yahoo.com.br-000?style=for-the-badge&logo=Yahoo&logoColor=430297&link=mailto:jrcundari@yahoo.com.br)](mailto:jrcundari@yahoo.com.br)
 
 ## My name's Junior Cundari! 🤟
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
@@ -22,7 +22,7 @@
 
 </br>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
 
   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuniorCundari&bg_color=1a1b27&border_color=bf91f3&title_color=70a5fd&text_color=38bdae)
 
