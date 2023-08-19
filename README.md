@@ -1,38 +1,31 @@
-# Hello, World!!!, I'm Junior Cundari 👋
+# Hello, World! 👋
 
-- 💻 I'm passionate about technologies.
-- 👥 My name's José Roberto but my nickname's Junior.
-- 💡 I’m currently learning ReactJS, NodeJS, JavaScript, HTML and CSS.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/juniorcundari/)
+[![Personal Badge](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logoColor=0E76A8)](https://juniorcundari.vercel.app/)
+[![Yahoo Badge](https://img.shields.io/badge/-jrcundari@yahoo.com.br-000?style=for-the-badge&logo=Yahoo&logoColor=430297&link=mailto:rcundari@yahoo.com.br)](mailto:rcundari@yahoo.com.br)
+
+## My name's Junior Cundari! 🤟
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+
+- 🎓 Graduated in Systems Analysis and Development
+- ✨ Passionate about Technology
+- 👷 Software Architecture Lover
+- 🌐 Web development
 - 🏠 I live in Brazil.
 
+</br>
 
-<section>
-  <div align="center">
-    <a href="https://www.instagram.com/juniiorcundari/" target="_blank">
-    <img align="center" height="32" src="https://img.shields.io/badge/juniiorcundari-gray?style=for-the-badge&logo=Instagram&logoColor=white"/>
-    </a>
-    <a href = "mailto:jrcundari@yahoo.com.br" target="_blank" >
-    <img align="center" height="32" src="https://img.shields.io/badge/jrcundari@yahoo.com.br-gray?style=for-the-badge&logo=Yahoo">
-    </a>
-    <a href="https://www.linkedin.com/in/juniorcundari/" target="_blank">
-    <img align="center" height="32" src="https://img.shields.io/badge/Junior%20Cundari-gray?style=for-the-badge&logo=Linkedin" />
-    </a>
-  </div>
-  <hr>
-  <div align="center">
-    <a href="https://github.com/JuniorCundari">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorCundari&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCundari&langs_count=8&theme=discord_old_blurple"/>
-  </div>
-  
-  <div style="display: inline_block" align="center"><br>
-    <img height="45" alt="junior-Reactjs" src="https://img.shields.io/badge/React.js-191e26?style=for-the-badge&logo=React" />
-    <img height="45" alt="junior-Nodejs" src="https://img.shields.io/badge/Node.js-191e26?style=for-the-badge&logo=Node.js" />
-    <img height="45" alt="junior-JavaScript" src="https://img.shields.io/badge/JavaScript-191e26?style=for-the-badge&logo=JavaScript" />
-    <img height="45" alt="junior-Typescript" src="https://img.shields.io/badge/Typescript-191e26?style=for-the-badge&logo=Typescript" />
-    <img height="45" alt="junior-HTML5" src="https://img.shields.io/badge/HTML5-191e26?style=for-the-badge&logo=HTML5" />
-    <img height="45" alt="junior-HTML5" src="https://img.shields.io/badge/CSS3-191e26?style=for-the-badge&logo=CSS3&logoColor=1572B6" />
-    <img height="45" alt="junior-Linux" src="https://img.shields.io/badge/Linux-191e26?style=for-the-badge&logo=Linux&logoColor=white" />
-    <img height="45" alt="junior-Windows" src="https://img.shields.io/badge/Windows-191e26?style=for-the-badge&logo=Windows" />
-  </div>
-</section>
+<div style="display: inline_block">
+
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuniorCundari&bg_color=1a1b27&border_color=bf91f3&title_color=70a5fd&text_color=38bdae)
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=JuniorCundari&theme=tokyonight&border=bf91f3&dates=FFF)](https://git.io/streak-stats)
+
+</div>
